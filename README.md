@@ -31,3 +31,6 @@ Before running the script, ensure you have the following:
 2.  **Install the required Python libraries** as mentioned in the Prerequisites.
 3.  **Download your Google Sheets API credentials JSON file** and place it in the same directory as the script (or update the path in the `creds` variable).
 4.  **Update the `spreadsheet_url` variable** in the script with the URL of your Google Sheet.
+
+## Author 
+Adefolasayo
